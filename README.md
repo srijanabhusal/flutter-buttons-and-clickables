@@ -17,4 +17,6 @@ Is this you very first time reaching out for Flutter? Then never mind to check t
 
 ## output
  Your emulator should be displaying the following output:
- [check this:](https://youtu.be/z6RFqhxMdvY?t=6)
+ 
+ 
+ ![](https://github.com/srijanabhusal/flutter-buttons-and-clickables/blob/master/ezgif.com-video-to-gif.gif)
