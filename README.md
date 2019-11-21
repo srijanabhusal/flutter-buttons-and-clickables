@@ -1,15 +1,13 @@
-# button_banaune
+# Flutter buttons and clickables
 
-A new Flutter project.
+This is a very simple app that demonstrates different types of buttons available in the flutter as well as the clickables.
+Buttons directly allow themselves to be clicked and actions to be trigerred while clickables allow wrapping of widgets or any items inside them and trigger the events on clicking them. They shall be clearly explained below.
 
-## Getting Started
+## Lets get started
+Is this you very first time reaching out for Flutter? Then never mind to check the following links:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Write your very first Flutter App:](https://flutter.dev/docs/get-started/codelab)
+- [You can also discover interesting things in Flutter cookbook at:](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
