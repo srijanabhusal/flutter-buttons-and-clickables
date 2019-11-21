@@ -10,4 +10,11 @@ Is this you very first time reaching out for Flutter? Then never mind to check t
 - [Click here to discover interesting things in Flutter cookbook](https://flutter.dev/docs/cookbook)
 - Or you may also follow the [online documentation](https://flutter.dev/docs) of Flutter itself
 
+## Installation
  
+- You may simply download the codes and try running it in your IDE, preferably [VS code](https://code.visualstudio.com/download) 
+- no extra dependencies are required here
+
+## output
+ Your emulator should be displaying the following output:
+ [check this:](https://youtu.be/z6RFqhxMdvY?t=6)
